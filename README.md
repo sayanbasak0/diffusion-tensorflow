@@ -1,12 +1,12 @@
 # Diffusion Simulator/Animator with NumPy
 
 ### Current Status:
-* NumPy version :
+* NumPy simulation :
     * Simulation works for N-D diffusion.
     * Animation works in 1-D and 2-D diffusion.
     * _Checkpointing_ functionality added.
     * _Experimental_: 3-D diffusion animation.
-* TensorFlow-v1:
+* TensorFlow-v1 :
     * Simulation works for N-D diffusion.
     * Animation for 2-D diffusion in `tensorflow-v1/diffusion_tenorflow1.ipynb`.
 
