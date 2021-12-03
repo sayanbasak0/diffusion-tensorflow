@@ -1,4 +1,4 @@
-# Diffusion Simulator/Animator with NumPy
+# Diffusion Simulator/Animator
 
 ### Current Status:
 * NumPy simulation :
